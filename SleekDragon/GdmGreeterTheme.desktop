@@ -1,0 +1,12 @@
+# This is not really a .desktop file like the rest, but it's useful to treat
+# it as such
+
+[GdmGreeterTheme]
+Greeter=SleekDragon.xml
+Name=SleekDragon
+Description=SleekDragon GDM Theme
+Author=Michael Russell
+Copyright=GPL
+Screenshot=SleekDragonScreenie.png
+
+
